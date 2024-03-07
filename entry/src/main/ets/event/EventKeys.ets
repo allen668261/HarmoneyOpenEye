@@ -1,3 +1,4 @@
+// language:typescript
 /**
  * 事件的EventNum
  */
